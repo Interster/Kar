@@ -1,0 +1,9 @@
+# Sluit die spesifieke werksuitleg en oop oortjies uit
+Kar/.obsidian/workspace.json
+Kar/.obsidian/workspace-mobile.json
+
+# Opsioneel: Sluit die lys van onlangs oopgemaakte lêers uit
+Kar/.obsidian/appearance.json
+
+# Geometrie van SolidCraft binere leers
+*.solidcraft
